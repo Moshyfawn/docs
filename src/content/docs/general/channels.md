@@ -7,7 +7,7 @@ At Zed we believe that great things are built by great people working together. 
 
 Channels are currently in private beta, please contact us to be added! Otherwise you can get some of the same benefits from [Calls](collaboration/) in the meantime.
 
-## Overview
+## Outline
 
 Channels provide a way to streamline collaborating for software engineers in many ways, but particularly:
 
