@@ -33,7 +33,7 @@ export default defineConfig({
 				}
 			],
 			lastUpdated: true,
-			editLink: { baseUrl: 'https://github.com/zed-industries/docs/edit/main/' },
+			editLink: { baseUrl: 'https://github.com/Moshyfawn/docs/edit/main/' },
 			locales: {
 				root: {
 					label: 'English',
